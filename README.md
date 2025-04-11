@@ -14,7 +14,6 @@ A lightweight Bash tool for generating historical resource usage reports from a 
 - ✅ All-in-one report mode (`-a`)
 - ✅ Optional output to file (`-f`)
 - ✅ Colorized CLI help (`-h`)
-- ✅ Clear, column-aligned output
 - ✅ Timestamps auto-added to saved reports
 
 ---
